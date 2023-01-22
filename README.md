@@ -14,6 +14,8 @@ The following programs are available:
 
 The following files will help with viewing and editing:
 
+- `screen_bmp_header.bin`: Provides a Windows Bitmap stub for VGA screens.
+- `screen_bmp_header_tdy.bin`: Provides a Windows Bitmap stub for TDY screens.
 - `tileset_bmp_header.bin`: Provides a Windows Bitmap stub for VGA tilesets.
 - `tileset_bmp_header_r.bin`: Provides a Windows Bitmap stub for rearranged VGA tilesets.
 - `tileset_bmp_header_tdy.bin`: Provides a Windows Bitmap stub for TDY tilesets.
