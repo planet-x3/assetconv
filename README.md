@@ -20,3 +20,5 @@ The following files will help with viewing and editing:
 - `tileset_bmp_header_r.bin`: Provides a Windows Bitmap stub for rearranged VGA tilesets.
 - `tileset_bmp_header_tdy.bin`: Provides a Windows Bitmap stub for TDY tilesets.
 - `tileset_bmp_header_r_tdy.bin`: Provides a Windows Bitmap stub for rearranged TDY tilesets.
+
+The program `cga_ramp.com` (source code in `cga_ramp.s`) will help you determine the gray ramp of a monochrome CGA monitor.
